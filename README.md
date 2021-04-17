@@ -1,4 +1,4 @@
-# Programming Algorithms with C/C++
+# Programming Algorithms
 
 Reference
 
